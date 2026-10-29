@@ -1,0 +1,4 @@
+method,break_after_year,mean_before,mean_after,note
+Binary segmentation (1 break),1900,1078.3666666666666,851.2,
+"PELT (penalty chooses, found 1)",1900,1078.3666666666666,851.2,
+Two-mean scan + bootstrap,1898,1097.75,849.9722222222222,95% bootstrap CI for the break year: 1896–1902

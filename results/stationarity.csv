@@ -1,0 +1,4 @@
+test,statistic,p_value
+ADF on the raw series,-4.048705096914345,0.001175887950387112
+ADF after removing the two means,-8.33994399707694,3.196200943661192e-13
+Ljung–Box (10 lags) on the residuals,12.973587479579868,0.2251523226837069
